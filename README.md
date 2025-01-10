@@ -9,6 +9,13 @@ I am a Robotics Ph.D. candidate at Georgia Tech, specializing in distributed rob
 
 ---
 
+### Contact
+- 🌐 Website: [scottmayberry.com](https://scottmayberry.com)
+- 📧 Email: [sctmayberry@gmail.com](mailto:sctmayberry@gmail.com)
+- 💼 LinkedIn: [Scott Mayberry](https://linkedin.com/in/scott-mayberry-robo)
+
+---
+
 ### Featured Projects
 #### 🛠 Miniature Underwater Robot (MUR)
 An open-source modular underwater robot designed for navigation and control research. [Read More](https://scholar.scottmayberry.com)
@@ -40,12 +47,5 @@ I have authored 11 publications and hold 10 patents in robotics, control systems
 
 For a complete list, visit my [Google Scholar](https://scholar.scottmayberry.com).
 
----
-
-### Contact
-- 🌐 Website: [scottmayberry.com](https://scottmayberry.com)
-- 📧 Email: [sctmayberry@gmail.com](mailto:sctmayberry@gmail.com)
-- 💼 LinkedIn: [Scott Mayberry](https://linkedin.com/in/scott-mayberry-robo)
-- 🛠 GitHub: [Scott Mayberry](https://github.com/scottmayberry)
 
 Feel free to explore my repositories, which showcase a mix of research-driven robotics projects and tools aimed at advancing multi-robot systems and underwater robotics.
